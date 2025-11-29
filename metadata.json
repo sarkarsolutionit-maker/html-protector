@@ -1,0 +1,5 @@
+{
+  "name": "Secure File Protector",
+  "description": "A high-security, offline file encryption utility for Android and Web. Protects sensitive files using military-grade AES-GCM encryption.",
+  "requestFramePermissions": []
+}
